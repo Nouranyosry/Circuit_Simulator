@@ -1,1 +1,5 @@
 Given list of numbers, try to add an element n to the list.
+
+numbers=[2,4,6,8]
+numbers.append(10)
+print(numbers)
