@@ -5,3 +5,8 @@
 5- https://www.youtube.com/watch?v=1E7z7r61b2s&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&index=43
 
 -Given a and b, find the largest number.
+
+a=10
+b=50
+c=max(a,b)
+print(c)
