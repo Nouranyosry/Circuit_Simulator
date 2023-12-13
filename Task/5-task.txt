@@ -2,3 +2,11 @@
 2- https://www.youtube.com/watch?v=pP0QJbJalik
 
 Given list of numbers, determine if number n on it or no
+
+numbers=[2,4,6,8]
+n=5
+if n in numbers:
+    print("is found")
+else:
+    print("not found")
+    
