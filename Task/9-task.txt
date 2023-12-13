@@ -1,2 +1,10 @@
 Given list, find it's length.
-sort it then reverse.
+sort it then reverse
+
+numbers=[2,4,6,8]
+length=len(numbers)
+print(length)
+numbers.sort()
+print (numbers)
+numbers.reverse()
+print(numbers)
